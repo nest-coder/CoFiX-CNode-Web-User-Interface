@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/libs/web3/hooks/useTransaction.ts
+#: src/pages/shared/TransactionButtonGroup/index.tsx
+msgid "Approve"
+msgstr "Approve"
+
+#: src/pages/shared/ClaimCOFICard/index.tsx
+msgid "Available COFI Amount to Claim"
+msgstr "Available COFI Amount to Claim"
+
+#: src/components/TokenInput/index.tsx
+msgid "Balance:"
+msgstr "Balance:"
+
+#: src/pages/Deposit/index.tsx
+#: src/pages/Withdraw/index.tsx
+msgid "CNode Token mining"
+msgstr "CNode Token mining"
+
+#: src/pages/Deposit/index.tsx
+#: src/pages/Withdraw/index.tsx
+msgid "CNode Token unmining"
+msgstr "CNode Token unmining"
+
+#: src/libs/web3/hooks/useTransaction.ts
+#: src/pages/shared/ClaimCOFICard/index.tsx
+#: src/pages/shared/ClaimCOFICard/index.tsx
+msgid "Claim COFI"
+msgstr "Claim COFI"
+
+#: src/pages/shared/WalletConnect/Button/Modal/index.tsx
+msgid "Click the button below to connect to CoFiX DApp"
+msgstr "Click the button below to connect to CoFiX DApp"
+
+#: src/pages/shared/TransactionModal/index.tsx
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Close"
+msgstr "Close"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "Community"
+msgstr "Community"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Confirm the transaction in your Wallet"
+msgstr "Confirm the transaction in your Wallet"
+
+#: src/pages/shared/WalletConnect/Button/index.tsx
+msgid "Connect Wallet"
+msgstr "Connect Wallet"
+
+#: src/pages/shared/WalletConnect/Button/Modal/index.tsx
+msgid "Connect to CoFiX"
+msgstr "Connect to CoFiX"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Connected"
+msgstr "Connected"
+
+#: src/pages/shared/ClaimCOFICard/index.tsx
+msgid "Current mining speed"
+msgstr "Current mining speed"
+
+#: src/pages/shared/Header/index.tsx
+msgid "Deposit"
+msgstr "Deposit"
+
+#: src/pages/Deposit/index.tsx
+#: src/pages/Deposit/index.tsx
+msgid "Deposit CNode"
+msgstr "Deposit CNode"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Disconnect"
+msgstr "Disconnect"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "Document"
+msgstr "Document"
+
+#: src/pages/shared/PoolSelector/index.tsx
+msgid "Double-Sided Pool"
+msgstr "Double-Sided Pool"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "Github"
+msgstr "Github"
+
+#: src/pages/Deposit/index.tsx
+msgid "Input Deposit Amount (CNode)"
+msgstr "Input Deposit Amount (CNode)"
+
+#: src/pages/Withdraw/index.tsx
+msgid "Input Withdraw Amount (CNode)"
+msgstr "Input Withdraw Amount (CNode)"
+
+#: src/libs/web3/connectors/injected.tsx
+msgid "MetaMask"
+msgstr "MetaMask"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Recent Transactions"
+msgstr "Recent Transactions"
+
+#: src/components/TokenInput/Modal/index.tsx
+msgid "Search name or address"
+msgstr "Search name or address"
+
+#: src/pages/shared/PoolSelector/index.tsx
+#: src/pages/shared/PoolSelector/index.tsx
+msgid "Select Pool"
+msgstr "Select Pool"
+
+#: src/components/TokenInput/Modal/index.tsx
+msgid "Select Token"
+msgstr "Select Token"
+
+#: src/pages/shared/PoolSelector/index.tsx
+msgid "Single-Sided Pool"
+msgstr "Single-Sided Pool"
+
+#: src/libs/web3/hooks/useTransaction.ts
+msgid "Stake CNode"
+msgstr "Stake CNode"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Transaction Rejected"
+msgstr "Transaction Rejected"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Transaction Submitted"
+msgstr "Transaction Submitted"
+
+#: src/libs/web3/hooks/useTransaction.ts
+msgid "Unsupported Content"
+msgstr "Unsupported Content"
+
+#: src/libs/web3/hooks/useTransaction.ts
+msgid "Unsupported Type"
+msgstr "Unsupported Type"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "View"
+msgstr "View"
+
+#: src/pages/shared/TransactionNotification/index.tsx
+msgid "View in Browser"
+msgstr "View in Browser"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "View in Etherscan"
+msgstr "View in Etherscan"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "Waiting For Confirmation"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Wallet"
+msgstr "Wallet"
+
+#: src/libs/web3/connectors/wallet-connect.tsx
+msgid "Wallet Connect"
+msgstr "Wallet Connect"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "WhitePaper"
+msgstr "WhitePaper"
+
+#: src/pages/shared/Header/index.tsx
+msgid "Withdraw"
+msgstr "Withdraw"
+
+#: src/libs/web3/hooks/useTransaction.ts
+#: src/pages/Withdraw/index.tsx
+#: src/pages/Withdraw/index.tsx
+msgid "Withdraw CNode"
+msgstr "Withdraw CNode"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "You failed confirming the transaction"
+msgstr "You failed confirming the transaction"

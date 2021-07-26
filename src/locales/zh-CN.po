@@ -1,0 +1,194 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language: \n"
+"Language-Team: \n"
+"Content-Type: \n"
+"Content-Transfer-Encoding: \n"
+"Plural-Forms: \n"
+
+#: src/libs/web3/hooks/useTransaction.ts
+#: src/pages/shared/TransactionButtonGroup/index.tsx
+msgid "Approve"
+msgstr "授权"
+
+#: src/pages/shared/ClaimCOFICard/index.tsx
+msgid "Available COFI Amount to Claim"
+msgstr "可领取 COFI 数量"
+
+#: src/components/TokenInput/index.tsx
+msgid "Balance:"
+msgstr "余额："
+
+#: src/pages/Deposit/index.tsx
+#: src/pages/Withdraw/index.tsx
+msgid "CNode Token mining"
+msgstr "未参与挖矿的 CNode Token"
+
+#: src/pages/Deposit/index.tsx
+#: src/pages/Withdraw/index.tsx
+msgid "CNode Token unmining"
+msgstr "正在参与挖矿的 CNode Token"
+
+#: src/libs/web3/hooks/useTransaction.ts
+#: src/pages/shared/ClaimCOFICard/index.tsx
+#: src/pages/shared/ClaimCOFICard/index.tsx
+msgid "Claim COFI"
+msgstr "领取 COFI"
+
+#: src/pages/shared/WalletConnect/Button/Modal/index.tsx
+msgid "Click the button below to connect to CoFiX DApp"
+msgstr "单击下面的按钮连接到 CoFiX Dapp"
+
+#: src/pages/shared/TransactionModal/index.tsx
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Close"
+msgstr "关闭"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "Community"
+msgstr "社区"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Confirm the transaction in your Wallet"
+msgstr "在您的钱包中确认交易"
+
+#: src/pages/shared/WalletConnect/Button/index.tsx
+msgid "Connect Wallet"
+msgstr "连接钱包"
+
+#: src/pages/shared/WalletConnect/Button/Modal/index.tsx
+msgid "Connect to CoFiX"
+msgstr "连接 CoFiX"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Connected"
+msgstr "已连接"
+
+#: src/pages/shared/ClaimCOFICard/index.tsx
+msgid "Current mining speed"
+msgstr "当前挖矿速度"
+
+#: src/pages/shared/Header/index.tsx
+msgid "Deposit"
+msgstr "存入"
+
+#: src/pages/Deposit/index.tsx
+#: src/pages/Deposit/index.tsx
+msgid "Deposit CNode"
+msgstr "存入 CNode"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Disconnect"
+msgstr "断开"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "Document"
+msgstr "文档"
+
+#: src/pages/shared/PoolSelector/index.tsx
+msgid "Double-Sided Pool"
+msgstr "双币种池"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "Github"
+msgstr "Github"
+
+#: src/pages/Deposit/index.tsx
+msgid "Input Deposit Amount (CNode)"
+msgstr "输入存入数量（CNode）"
+
+#: src/pages/Withdraw/index.tsx
+msgid "Input Withdraw Amount (CNode)"
+msgstr "输入取出数量（CNode）"
+
+#: src/libs/web3/connectors/injected.tsx
+msgid "MetaMask"
+msgstr "MetaMask"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Recent Transactions"
+msgstr "最近交易"
+
+#: src/components/TokenInput/Modal/index.tsx
+msgid "Search name or address"
+msgstr "查询名称或地址"
+
+#: src/pages/shared/PoolSelector/index.tsx
+#: src/pages/shared/PoolSelector/index.tsx
+msgid "Select Pool"
+msgstr "选择资金池"
+
+#: src/components/TokenInput/Modal/index.tsx
+msgid "Select Token"
+msgstr "选择 Token"
+
+#: src/pages/shared/PoolSelector/index.tsx
+msgid "Single-Sided Pool"
+msgstr "单币种池"
+
+#: src/libs/web3/hooks/useTransaction.ts
+msgid "Stake CNode"
+msgstr "存入 CNode"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Transaction Rejected"
+msgstr "交易已拒绝"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Transaction Submitted"
+msgstr "交易已提交"
+
+#: src/libs/web3/hooks/useTransaction.ts
+msgid "Unsupported Content"
+msgstr "不支持的内容"
+
+#: src/libs/web3/hooks/useTransaction.ts
+msgid "Unsupported Type"
+msgstr "不支持的类型"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "View"
+msgstr "查看"
+
+#: src/pages/shared/TransactionNotification/index.tsx
+msgid "View in Browser"
+msgstr "浏览器查看"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "View in Etherscan"
+msgstr "在 Etherscan 中查看"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "Waiting For Confirmation"
+msgstr "待确认"
+
+#: src/pages/shared/WalletConnect/Status/Modal/index.tsx
+msgid "Wallet"
+msgstr "钱包"
+
+#: src/libs/web3/connectors/wallet-connect.tsx
+msgid "Wallet Connect"
+msgstr "Wallet Connect"
+
+#: src/pages/shared/Menu/index.tsx
+msgid "WhitePaper"
+msgstr "白皮书"
+
+#: src/pages/shared/Header/index.tsx
+msgid "Withdraw"
+msgstr "取出"
+
+#: src/libs/web3/hooks/useTransaction.ts
+#: src/pages/Withdraw/index.tsx
+#: src/pages/Withdraw/index.tsx
+msgid "Withdraw CNode"
+msgstr "取出 CNode"
+
+#: src/pages/shared/TransactionModal/index.tsx
+msgid "You failed confirming the transaction"
+msgstr "交易确认失败"
