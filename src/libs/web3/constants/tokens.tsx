@@ -78,7 +78,7 @@ export const CNODE: TokenProps = {
   symbol: 'CNODE',
   Icon: TokenCNode,
   addresses: {
-    4: '0xa818c471Ab162a1d7669Ab04b023Ebac38DDCA64',
+    4: '0x91566410cC6E9F6579e4132909F597676D5C1FB2',
   },
 }
 
