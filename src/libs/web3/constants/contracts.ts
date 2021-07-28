@@ -16,7 +16,7 @@ export const CoFiXController: CoFiXControllerProps = {
   addresses: {
     1: '0xf471bFd6c0A1Ab79cAD54B9608652B85638ceD97',
     3: '0x4C73A1f379bD5bC28DB20f4d2D3df344497000BF',
-    4: '0xEf1673bda89C0c1827680467BdfB6d22F18F8498',
+    4: '0x59c2EAF8FC22C10C2EB79Be3c23c2916BD0ec81e',
   },
 }
 
@@ -24,18 +24,18 @@ export const CoFiXRouter: CoFiXRouterProps = {
   addresses: {
     1: '0x72A63055b9AA997A4311D0D068170e38F5455b82',
     3: '0x59291fa0828290252d743F3A424B35B7aabf6aFF',
-    4: '0xFd759970c8B4A6EfE5525EA9A03732Ef04F1C5F4',
+    4: '0x9f7997EFb0aF6f5e370dea99b1941D73330825C9',
   },
 }
 
 export const CoFiXVaultForStaking: CoFiXVaultForStakingProps = {
   addresses: {
-    4: '0xf952Cb518BD7F72F600c6aEA0A8CcFBeabe7c9C0',
+    4: '0x11839c81beBBC82686b0052Cb6F03E9Ae58A9704',
   },
 }
 
 export const CoFiXDAO: CoFiXDAOProps = {
   addresses: {
-    4: '0xCD0E336D483511840D3002E4aE1518bd3681cdaC',
+    4: '0x2720dF961723568062A96F9f5310d8ab408bfFfc',
   },
 }
